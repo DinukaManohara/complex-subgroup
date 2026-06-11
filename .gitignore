@@ -1,0 +1,48 @@
+# Ignored directories
+sketch_rl/
+obselete/
+
+# Ignored file types within specific directories (including subdirectories)
+datasets/**/*.pkl
+datasets/**/*.pdf
+datasets/**/*.csv
+datasets/**/*.tsv
+
+perceptive_graphs/**/*.pkl
+perceptive_graphs/**/*.pdf
+perceptive_graphs/**/*.csv
+perceptive_graphs/**/*.tsv
+
+plots/**/*.pkl
+plots/**/*.pdf
+plots/**/*.csv
+plots/**/*.tsv
+
+results/**/*.pkl
+results/**/*.pdf
+results/**/*.csv
+results/**/*.tsv
+
+# Also match files directly inside those directories (not just subdirs)
+datasets/*.pkl
+datasets/*.pdf
+datasets/*.csv
+datasets/*.tsv
+
+perceptive_graphs/*.pkl
+perceptive_graphs/*.pdf
+perceptive_graphs/*.csv
+perceptive_graphs/*.tsv
+
+plots/*.pkl
+plots/*.pdf
+plots/*.csv
+plots/*.tsv
+
+results/*.pkl
+results/*.pdf
+results/*.csv
+results/*.tsv
+
+# Ignored files by pattern
+bayes_pocket_walker*
