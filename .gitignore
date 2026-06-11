@@ -45,4 +45,4 @@ results/*.csv
 results/*.tsv
 
 # Ignored files by pattern
-bayes_pocket_walker*
+bayes*
