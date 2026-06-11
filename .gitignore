@@ -47,3 +47,5 @@ results/*.tsv
 # Ignored files by pattern
 bayes*
 *runner.py
+
+!/datasets/banknote.csv
