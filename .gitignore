@@ -48,5 +48,7 @@ results/*.tsv
 bayes*
 *runner.py
 
+ablation_rebuttal.py
+
 !/datasets/banknote.csv
 !
